@@ -7,6 +7,14 @@
         display: block;
     }
 
-.gender-group .form-check-inline {
-    vertical-align: top;
+.gender-group .form-check:last-child {
+    position: relative;
+}
+
+.gender-group .invalid-feedback {
+    position: absolute;
+    left: 100%;
+    top: 0;
+    width: max-content;
+    margin-top: 0;
 }
