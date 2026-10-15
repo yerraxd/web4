@@ -7,3 +7,6 @@
         display: block;
     }
 
+.gender-group .form-check-inline {
+    vertical-align: top;
+}
