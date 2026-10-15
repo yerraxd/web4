@@ -70,15 +70,4 @@ Validation is done by the **browser** using HTML attributes: `required`, `minlen
 - **Validation**: `was-validated`, `valid-feedback`, `invalid-feedback`
 - **Buttons**: `btn`, `btn-primary`, `btn-secondary`
 - **Utilities**: `mb-3`, `ms-2`, `ms-auto`, `d-block`
-- 
-## How to run
 
-1. Download or clone the repository.
-2. Open `index.html` in a browser.
-3. Use the navigation bar to switch between pages.
-
-An internet connection is required because Bootstrap is loaded from a CDN.
-
-## Author
-
-Your name, group and course here.
